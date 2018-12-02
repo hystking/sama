@@ -12,7 +12,7 @@ const argv = require("yargs").argv;
 const Jimp = require("jimp");
 
 const SCALE = .5;
-const PUBLIC_PATH = "";
+const PUBLIC_PATH = "public/";
 const CSS_PATH = "src/css/";
 const PUG_PATH = "src/pug/";
 
